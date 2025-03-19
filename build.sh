@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="nadinc/docker"
+IMAGE_NAME="sundar14022005/newproject"
 TAG="latest"
 
 # Build Docker image
